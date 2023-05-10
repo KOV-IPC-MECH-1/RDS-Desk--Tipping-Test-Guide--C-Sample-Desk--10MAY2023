@@ -26,19 +26,21 @@
 
 ## Step 1   
 #### Open `Drawer` to fully extended position.    
-![Step 1 open drawer to fully open](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/9e964f50-8373-4422-8780-9dfb9774e6c8)  
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/b7e87c56-334a-47e0-9c79-333a830ee138)
 
 
 ## Step 2  
 #### Install `C-clamp` as shown.
-  ![Step 2 - Install c-clamp as shown](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/50126b28-e73d-41e2-b00b-4260418a11c0)  
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/27cdc25b-2fc7-42ec-b663-31f99de59594)
+
 
 >**Note**
 >Take care to ensure that `C-clamp` is centered on the `lock face` and tightened securely enough to elimate any play once installed.
   
 ## Step 3
 #### Install `Luggage scale` onto `C-clamp` as shown.
-  ![Step 3 -clamp and scale installed](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/dd642de9-ae45-41b4-97b8-a7a1fddfc4a6)  
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/0710aaf9-5a03-45de-9f3f-51ae1cdc18c3)
+
 
 >**Note**
 >Be sure to attach the `Luggage scale` strap within the jaw portion of the `C-clamp`, closest to the `Drawer` outer face.
