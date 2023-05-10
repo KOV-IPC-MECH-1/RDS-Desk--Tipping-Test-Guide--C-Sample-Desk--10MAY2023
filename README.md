@@ -8,17 +8,19 @@
 # Equipment
   
    - ### `RDS Solution` (fully assembled System and Desk)  
- ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/3a9264a2-607d-439b-a7e0-3f026f37fda8)
+ ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/d9eee6c6-d6d0-46fb-b913-2079bdca716d)
  
 
 
   
    - ### `C-clamp`
-![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/26bd9869-27f4-4c8c-a423-98228aa74de8)
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/5865893f-dddf-4bfb-93c5-dfb6087b1752)
+
 
 
    - ### `Luggage scale`
- ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/0138507f-febb-439f-8890-611c83534c29)
+ ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/2dd651cb-2c58-4b53-9ff2-7e97303f520a)
+
 
  
  </details>
@@ -30,12 +32,12 @@
 
 ## Step 1   
 #### Open `Drawer` to fully extended position.    
-![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/17e3a720-ba91-43cf-bf48-47a1de9aff8f)
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/48c62fc4-84a1-4a2f-ab3e-86410b6dd00e)
 
 
 ## Step 2  
 #### Install `C-clamp` as shown.
-![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/454b875d-0dbd-4c08-8507-4d530cc366e8)
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/0a6d1a35-d44f-4243-a98f-b21d963f6efa)
 
 
 >**Note**
@@ -43,7 +45,8 @@
   
 ## Step 3
 #### Install `Luggage scale` onto `C-clamp` as shown.
-![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/d1432bfd-1fe3-4ff5-bb8b-9eef05538941)
+![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/40199398-922e-480e-ba1e-3d44865fbbd7)
+
 
 
 
@@ -52,7 +55,8 @@
   
 ## Step 4
 #### Zero out luggage scale before testing.
-![Step 4 - Zero out scale](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/37aaee8d-7379-4ad4-9ddc-141f31be2acd)
+![Step 4 - Zero out scale](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/253c5397-96c2-4da8-981f-9c0a8b06945c)
+
 
 >**Note**
 >Turn black knob counterclockwise to zero out `Luggage scale` as shown.
@@ -79,7 +83,8 @@
  
 ### Pull/Push Testing example:
 
-https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/cb235c66-3f02-421c-889c-425d534876a2
+https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/2df89cee-ed4d-4cc8-b5c7-d466ce6c796c
+
 
 
 
