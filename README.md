@@ -8,7 +8,7 @@
 # Equipment
   
    - ### `RDS Solution` (fully assembled System and Desk)  
- ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/3a9264a2-607d-439b-a7e0-3f026f37fda8)
+ ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/3a9264a2-607d-439b-a7e0-3f026f37fda8?token=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)
  
 
 
