@@ -47,7 +47,7 @@
   
 ## Step 4
 #### Zero out luggage scale before testing.
-![Step 4 - Zero out scale](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/894ccec1-7b76-457f-a724-4f58dc6f159a)  
+![Step 4 - Zero out scale](https://private-user-images.githubusercontent.com/117060318/237491340-894ccec1-7b76-457f-a724-4f58dc6f159a.GIF?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjgzNzU2NjY3LCJuYmYiOjE2ODM3NTYzNjcsInBhdGgiOiIvMTE3MDYwMzE4LzIzNzQ5MTM0MC04OTRjY2VjMS03Yjc2LTQ1N2YtYTcyNC00ZjU4ZGM2ZjE1OWEuR0lGP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDUxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA1MTBUMjIwNjA3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDQyMDQ3ZjQ1NmY2ZDZjOTBhZDQ2YjJjNDIxMmEzODFhMWYzYTlhMzE1NjE3NmI0YjFmOTgwODlkNmQ0Yzk3NiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.na50I68KeBJVM4fdbOx4uo-rzhAYbaIuBOxme1M7e6k)
 >**Note**
 >Turn black knob counterclockwise to zero out `Luggage scale` as shown.
   
