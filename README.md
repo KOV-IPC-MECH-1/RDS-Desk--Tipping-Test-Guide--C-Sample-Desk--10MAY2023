@@ -8,13 +8,13 @@
 # Equipment
   
    - ### `RDS Solution` (fully assembled System and Desk)  
-  ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/75811020-71ef-46b0-9054-ecdd7af1fcd1)  
+  ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/75811020-71ef-46b0-9054-ecdd7af1fcd1.png)  
   
    - ### `C-clamp`
-  ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/1a9647dd-728d-4e28-9713-837505510c8a) 
+  ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/1a9647dd-728d-4e28-9713-837505510c8a.png)  
 
    - ### `Luggage scale`
- ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/404d5159-9f4d-422c-985a-89f274d2914c)   
+ ![image](https://github.com/KOV-IPC-MECH-1/RDS-Desk--Tipping-Test-Guide--C-Sample-Desk--10MAY2023/assets/117060318/404d5159-9f4d-422c-985a-89f274d2914c.png)   
   
  </details>
   
